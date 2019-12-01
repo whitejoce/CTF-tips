@@ -12,7 +12,7 @@
    * Python,Shell,C
 
 ## 工具 Tools 
-   * Msic类： binwalker, 
+   * Msic类： binwalk(分析文件隐藏文件), pdfcrack（爆破加密pdf）, steghide（查看图片是否隐写文件）
    * 
 ## 推荐书籍  
    - 
