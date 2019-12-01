@@ -9,7 +9,7 @@
 ## 操作系统
    * Ubuntu,Kali
 ## 语言
-   * Python,C,Shell
+   * Python,Shell,C
 
 ## 工具 
    * Msic类： binwalker, 
