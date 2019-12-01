@@ -1,0 +1,11 @@
+操作系统
+   * Ubuntu,Kali
+
+语言
+   * Python,C,Shell
+
+工具 
+   * Msic类： binwalker, 
+   * 
+
+推荐书籍
