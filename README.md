@@ -19,4 +19,3 @@
    * 
 ## 后记 
    * 也欢迎大家推荐给我一些工具，多多交流！
-   * Also welcome translation into English.（Sorry for my poor English）
