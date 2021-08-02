@@ -6,7 +6,7 @@
 
 内容后续会慢慢补充
 ## 软件
-   * 虚拟机 VMware Workstation 15 Player（URL：https://www.vmware.com ）
+   * 虚拟机 VMware Workstation（URL：https://www.vmware.com ）
 ## 操作系统 
    * Ubuntu(URL:https://ubuntu.com)
    * Kali  (URL:https://www.kali.org)
